@@ -8,7 +8,9 @@ A: coefficient matrix
 
 ### Outputs
 L: lower triangular matrix
+
 U: upper triangular matrix
+
 P: pivot matrix
 
 ### Limitations/Notes
